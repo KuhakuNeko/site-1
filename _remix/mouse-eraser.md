@@ -1,20 +1,21 @@
 ---
 layout: single
-title: Mouse draw
+title: Mouse eraser
 header: no
 categories:
-  - method
+  - methods
 tags:
   - mouse
-  - draw
+  - eraser
+  - HCI
 ---
 
-Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Ο χρήστης μπορεί να χρησιμοποιήσει το ποντίκι για να σχεδιάσει στη λευκή επιφάνεια (canvas).
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως "σβηστήρι". Υπάρχουν δύο διαθέσιμες εικόνες και η μία σβήνει μετακινώντας τον κέρσορα για να αποκαλυφθεί η δεύτερη. Χρησιμοποιείται το στοιχείο canvas και κώδικας σε JavaScript.
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="MwxdgM" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/MwxdgM/'>html canvas draw</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<p data-height="350" data-theme-id="0" data-slug-hash="ooeGem" data-default-tab="result" data-user="evabat" class='codepen'>See the Pen <a href='https://codepen.io/evabat/pen/ooeGem'>ooeGem</a> by evabat (<a href='https://codepen.io/evabat'>@evabat</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Τρποποποιήστε το παράδειγμα έτσι ώστε όταν δίνεται ως είσοδος ένα συγκεκριμένο πλήκτρο από το πληκτρολόγιο (π.χ. Space), να εκτελείται η λειτουργία reset / clear στo canvas (επαναφορά στη λευκή επιφάνεια).
+Άσκηση: Αλλάξτε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser.
 
 Λύση:
 
