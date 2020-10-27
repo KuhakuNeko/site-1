@@ -19,3 +19,12 @@ tags:
 Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν.
 
 Άσκηση 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
+
+Λύση για την άσκηση 1:
+
+<p class="codepen" data-height="402" data-theme-id="light" data-default-tab="js,result" data-user="P2019108" data-slug-hash="gOMRJZa" style="height: 402px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="html canvas game">
+  <span>See the Pen <a href="https://codepen.io/P2019108/pen/gOMRJZa">
+  html canvas game</a> by P2019108 (<a href="https://codepen.io/P2019108">@P2019108</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
