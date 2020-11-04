@@ -17,9 +17,9 @@ tags:
 
 Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας περισσότερες επιλογές στη φόρμα περιεχομένων. Δοκιμάστε να φέρετε δυναμικά στη σελίδα διαφορετικό περιεχόμενο (π.χ. εικόνες).
 
-Λύση:
+<h2> Λύση: </h2>
 
-<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="P2019108" data-slug-hash="jOrzwgq" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple content toggle with AngularJS">
+<p class="codepen" data-height="652" data-theme-id="dark" data-default-tab="result" data-user="P2019108" data-slug-hash="jOrzwgq" style="height: 652px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple content toggle with AngularJS">
   <span>See the Pen <a href="https://codepen.io/P2019108/pen/jOrzwgq">
   Simple content toggle with AngularJS</a> by P2019108 (<a href="https://codepen.io/P2019108">@P2019108</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
