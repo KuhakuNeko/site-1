@@ -17,7 +17,7 @@ tags:
 
 Άσκηση: Αλλάξτε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser.
 
-<h2> Λύση: </h2><br>
+<h2> Λύση: </h2>
 (Προτείνω να χρησιμοποιήσετε 0.5x zoom)<br>
 
 <p class="codepen" data-height="482" data-theme-id="light" data-default-tab="result" data-user="P2019108" data-slug-hash="XWKdXLK" style="height: 482px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mouse eraser">
