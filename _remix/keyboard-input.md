@@ -20,7 +20,7 @@ tags:
 
 Άσκηση 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
 
-Λύση για την άσκηση 1:
+<h2> Λύση για την άσκηση 1: </h2>
 
 <p class="codepen" data-height="420" data-theme-id="light" data-default-tab="result" data-user="P2019108" data-slug-hash="gOMRJZa" style="height: 420px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="html canvas game">
   <span>See the Pen <a href="https://codepen.io/P2019108/pen/gOMRJZa">
