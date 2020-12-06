@@ -238,9 +238,6 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:path/
-  images:
-    output: true
-    permalink: /images/:path/
   header:
     output: false
 
