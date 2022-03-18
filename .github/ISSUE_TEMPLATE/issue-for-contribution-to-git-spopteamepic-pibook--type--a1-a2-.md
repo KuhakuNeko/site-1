@@ -1,5 +1,5 @@
 ---
-name: 'Site Contribution to Git''sPopTeamEpic Pibook (TYPE: A1+A2)'
+name: 'Issue for contribution to Git''sPopTeamEpic Pibook (TYPE: A1+A2)'
 about: Contribution for for content of type A1+A2 of pibook
 title: ''
 labels: ''
