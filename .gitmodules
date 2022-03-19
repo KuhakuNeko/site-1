@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/Git-s-PopTeamEpic/images
+	url = https://github.com/KuhakuNeko/images
     branch = master
 [submodule "_gallery"]
 	path = _gallery
