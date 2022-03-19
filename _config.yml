@@ -12,7 +12,7 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "p2019108-pibook-sw"
+name                     : "p2019108-sw-pibook"
 description              : "Programming Interactivity Greek Book."
 url                      : "https://p2019108-sw-pibook.netlify.app/"
 baseurl                  : ""
