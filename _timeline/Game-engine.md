@@ -8,4 +8,6 @@ events:
   - Unreal-Engine
   - kidsim
   - mit-scratch
+  - CryEngine
+  - source
 ---

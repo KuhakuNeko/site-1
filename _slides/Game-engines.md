@@ -8,4 +8,6 @@ slides:
   - Unreal-Engine
   - kidsim
   - mit-scratch
+  - CryEngine
+  - source
 ---
