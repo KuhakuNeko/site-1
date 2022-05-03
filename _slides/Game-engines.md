@@ -10,4 +10,6 @@ slides:
   - mit-scratch
   - CryEngine
   - source
+  - toy-con-garage
+  - renpy
 ---
