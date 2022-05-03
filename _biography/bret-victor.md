@@ -13,3 +13,5 @@ tags:
   - iPad
 ---
 
+{% include bio-bret.md %}
+
